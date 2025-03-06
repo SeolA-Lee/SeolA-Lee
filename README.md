@@ -53,7 +53,7 @@
   <a href="https://dev-sxxlx.notion.site/1a1bef2ac32d800b916ec4dcb59a12ff">
     <img src ="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white">
   </a>
-  <a href="seola12e@gmail.com:mailto">
+  <a href="mailto:seola12e@gmail.com">
     <img src = "https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> 
   </a>
   <br /><br />
